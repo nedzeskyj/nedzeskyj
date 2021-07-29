@@ -1,8 +1,4 @@
-- 👋 Hi, I’m **Justin**
-- 👀 I’m creating a resume website
-- 🌱 I’m learning R for big data analysis
-- 💞️ I love to collaborate but don't currently have bandwidth for a large project
-- 📫 Feel free to connect with me via **[LinkedIn](https://www.linkedin.com/in/justin-nedzesky/)**!
+- 👋 Hi, I’m **Justin**. My current project is creating a resume website for myself.
 
 <!---
 nedzeskyj/nedzeskyj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
